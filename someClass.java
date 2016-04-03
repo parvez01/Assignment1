@@ -13,7 +13,7 @@ public void createEvents() {
 
 
 public void upcomingEvents() {
-		syso("Upcoming Events")
+		syso("Please join us!")
 for (String event : events)	
 			System.out.println(event);
 	
