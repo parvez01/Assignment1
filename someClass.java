@@ -4,13 +4,14 @@ public class TheMotivator {
 	}
 
 public void headerupcomingEvents() {
-		syso("Party at Jane's house tomorrow]")
+		syso("Dinner at Katie's on Friday"]")
 	}
 
 
 	public static void main(String[] args) {
 		TheMotivator tm = new TheMotivator();
 		tm.feedback(60);
-	}
+someClass sc = new SomeClass() to main	
+}
 }
 
