@@ -1,6 +1,6 @@
 public class TheMotivator {
 	public void thoughtForTheDay() {
-		syso("I couldn't repair your brakes, so I made your horn louder")
+		syso("On the other hand, you have different fingers")
 	}
 	public static void main(String[] args) {
 		TheMotivator tm = new TheMotivator();
