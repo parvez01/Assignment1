@@ -3,7 +3,7 @@ public class TheMotivator {
 		syso("I couldn't repair your brakes, so I made your horn louder")
 	}
 
-public void upcomingEvents() {
+public void headerupcomingEvents() {
 		syso("Party at Jane's house tomorrow]")
 	}
 
