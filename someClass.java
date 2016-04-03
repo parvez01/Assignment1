@@ -1,5 +1,5 @@
 public class TheMotivator {
-	public void functionOne() {
+	public void thoughtForTheDay() {
 		syso("I couldn't repair your brakes, so I made your horn louder")
 	}
 	public static void main(String[] args) {
